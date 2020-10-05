@@ -16,4 +16,4 @@ For help getting started with Flutter, view our
 samples, guidance on mobile development, and a full API reference.
 
 ![Alt text](https://github.com/aelmas07/breakingbad/blob/master/docs/android.png?raw=true "Optional Title")
-![Alt text](https://https://github.com/aelmas07/breakingbad/blob/master/docs/ios.png?raw=true "Optional Title")
+![Alt text](https://github.com/aelmas07/breakingbad/blob/master/docs/ios.png?raw=true "Optional Title")
